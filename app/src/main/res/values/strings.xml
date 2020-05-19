@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">EcoleEnLigne</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="number_childs">
+        <item>Nombre Enfants</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="annee_sco">
+        <item>Annee Scolaire</item>
+        <item>2020/2021</item>
+        <item>2021/2022</item>
+        <item>2022/2023</item>
+    </string-array>
+    <string-array name="formule">
+        <item>Formule</item>
+        <item>1 cours par année scolaire</item>
+        <item>2 cours par année scolaire</item>
+        <item>Tous les cours d’une année scolaire</item>
+    </string-array>
+    <string-array name="formation">
+        <item>Mode de Formation</item>
+        <item>Formule progression(Documents électroniques uniquement)</item>
+        <item>Formule accompagnement(accompagnement par un professeur)</item>
+    </string-array>
+    <string-array name="lien_par">
+        <item>Lien de Parente</item>
+        <item>mere</item>
+        <item>pere</item>
+    </string-array>
+    <string-array name="niveau_sco">
+        <item>Niveau Scolaire</item>
+        <item>CP</item>
+        <item>CE1</item>
+        <item>CE2</item>
+        <item>CM1</item>
+        <item>CM2</item>
+    </string-array>
+</resources>
